@@ -1,35 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623210/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623210/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623210/blog/</id><updated>2018-10-08T11:00:00+08:00</updated><entry><title>2018 Fall Week5</title><link href="https://mdecadp2018.github.io/site-40623210/blog/2018-Fall-Project-Blog-week5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623210/blog/2018-Fall-Project-Blog-week5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>2018 Fall Week9</title><link href="./2018-Fall-Project-Blog-week9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-05:./2018-Fall-Project-Blog-week9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;建立各組分組倉儲並把組員加入。
+教學影片:
+&lt;iframe width="560" height="320" src="https://www.youtube.com/embed/4i1D5rIrkAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week8</title><link href="./2018-Fall-Project-Blog-week8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-week8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;第八週是在回顧1~7週的內容，並整理好網站、網誌、投影片的內容，在第九週要取自評成績並分組，在課餘時間要先找好組員及想好要做哪個期末題目協同。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week7</title><link href="./2018-Fall-Project-Blog-week7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog-week7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;本週一開始, 就碰到 Github 無法登入的問題, 具體原因如下:&lt;/p&gt;
+&lt;p&gt;https://status.github.com/messages
+https://blog.github.com/2018-10-21-october21-incident-report/
+https://thenextweb.com/dd/2018/10/22/github-is-down-because-of-data-storage-issues/
+https://www.onmsft.com/news/github-suffers-hours-long-outage-coming-back-online-now
+https://www.theinquirer.net/inquirer/news/3064898/github-down-major-outage&lt;/p&gt;
+&lt;p&gt;發生原因:&lt;/p&gt;
+&lt;p&gt;network partition and subsequent database failure&lt;/p&gt;
+&lt;p&gt;A network partition refers to network decomposition into relatively independent subnets for their separate optimization as well as network split due to the failure of network devices.&lt;/p&gt;
+&lt;p&gt;也就是網路裝置與資料庫故障, 導致發生此一事件&lt;/p&gt;
+&lt;p&gt;影響範圍:&lt;/p&gt;
+&lt;p&gt;this incident only impacted website metadata stored in our MySQL databases, such as issues and pull requests
+Git repository data remains unaffected and has been available throughout the incident&lt;/p&gt;
+&lt;p&gt;因應處理:&lt;/p&gt;
+&lt;p&gt;各計算機程式、電腦輔助設計與協同產品設計倉儲資料除了近端與 Github 端存放外, 還必須同步到:
+https://about.gitlab.com/pricing/
+https://bitbucket.org/product/pricing
+以及自建區域網路上的 Fossli SCM 主機&lt;/p&gt;
+&lt;p&gt;Github Pages 靜態資料可以分別以:
+https://about.gitlab.com/features/pages/
+Pages for Bitbucket
+以及 Fossil SCM 的 Documentation 技術達成&lt;/p&gt;
+&lt;p&gt;Fossil SCM on Ubuntu 18.04&lt;/p&gt;
+&lt;p&gt;虛擬或實體安裝的 Ubuntu, 可以透過 Fossil SCM 與 Stunnel 的結合, 建構能夠自行維護的 Fossil SCM 伺服主機&lt;/p&gt;
+&lt;p&gt;http://mde.tw/2017springwcm/blog/2017spring-ubuntu-stunnel-fossil.html
+http://mde.tw/2017springwcm/blog/2017spring-stunnel-fossil.html&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week6</title><link href="./2018-Fall-Project-Blog-week6.html" rel="alternate"></link><published>2018-10-15T11:00:00+08:00</published><updated>2018-10-15T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-15:./2018-Fall-Project-Blog-week6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;OnShape Week3 Homework 練習操作影片:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VmdAwQ1Apns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8SQyH7Q3QR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9bDgQylsrsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6R9nVladSsE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week5</title><link href="./2018-Fall-Project-Blog-week5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-08:./2018-Fall-Project-Blog-week5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;OnShape Week2 Homework1~5 練習操作影片:&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AEeY-ywpiH8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AEeY-ywpiH8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UG_UHBPB8TM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UG_UHBPB8TM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PAarbgfF0gQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PAarbgfF0gQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cwe139xmq6o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cwe139xmq6o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Zf2ZZsmQtVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week4</title><link href="https://mdecadp2018.github.io/site-40623210/blog/2018-Fall-Project-Blog-week4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623210/blog/2018-Fall-Project-Blog-week4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Zf2ZZsmQtVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week4</title><link href="./2018-Fall-Project-Blog-week4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-week4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;練習OnShape習題。
 OnShape Week1 Homework1~6 練習操作影片:
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/agw8k224qLk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qvmMLC2nrW0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RxXtPss023g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VuqyyvDAohE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7Eozv1OjAyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/slkOi_rtvP8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week3</title><link href="https://mdecadp2018.github.io/site-40623210/blog/2018-Fall-Project-Blog-week3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623210/blog/2018-Fall-Project-Blog-week3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/agw8k224qLk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qvmMLC2nrW0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RxXtPss023g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VuqyyvDAohE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7Eozv1OjAyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/slkOi_rtvP8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week3</title><link href="./2018-Fall-Project-Blog-week3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-24:./2018-Fall-Project-Blog-week3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;p&gt;&lt;strong&gt;中秋佳節放假!!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;又是一年落葉黃，一層秋雨一層涼。整日工作挺辛苦，天涼別忘加衣裳。保重身體多餐飯，珍惜友情常想想。信短情長言未盡，唯願朋友多安康。中秋快樂，閤家團圓！&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;img src="/images/10084910380803756581.jpg" width="508" height="254" alt=""&gt;&lt;/strong&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week2</title><link href="https://mdecadp2018.github.io/site-40623210/blog/2018-Fall-Project-Blog-week2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-17:/site-40623210/blog/2018-Fall-Project-Blog-week2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;strong&gt;中秋佳節放假!!&lt;/strong&gt;
+strong&amp;gt;又是一年落葉黃，一層秋雨一層涼。整日工作挺辛苦，天涼別忘加衣裳。保重身體多餐飯，珍惜友情常想想。信短情長言未盡，唯願朋友多安康。中秋快樂，閤家團圓！&lt;/strong&gt;
+&lt;img src="/images/10084910380803756581.jpg" width="508" height="254" alt=""&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week2</title><link href="./2018-Fall-Project-Blog-week2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-17:./2018-Fall-Project-Blog-week2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;進入GitHub領取個人倉儲(mdecadp2018/site-40623210)，將site-40623210的分支(Branches)更改為gh-pages。&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;&lt;img src="/images/chrome_2018-10-21_15-38-26.png" width="514" height="284" alt=""&gt;&lt;/span&gt;&lt;/p&gt;
-試著使用OnShape練習"2018 電腦輔助設計實習教材"中的習題。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week1</title><link href="https://mdecadp2018.github.io/site-40623210/blog/2018-Fall-Project-Blog-week1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623210/blog/2018-Fall-Project-Blog-week1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+試著使用OnShape練習"2018 電腦輔助設計實習教材"中的習題。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week1</title><link href="./2018-Fall-Project-Blog-week1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog-week1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;在github上建立一個新倉儲 "學號.githb.io"
 ，以2018fall為示範倉儲clone下來後，將除了.git、REABME.me的檔案複製到自己資料夾，使用git add . 、 git commit -m ""、git push提交至GitHub。
@@ -47,7 +84,7 @@ OnShape Week1 Homework1~6 練習操作影片:
 &lt;p&gt;&lt;strong&gt;A:OnShape是一套無須下載任何軟件的線上繪圖軟體，繪圖只需網路及帳號，在團隊協同繪圖時不需在同一地方進行，其儲存都在雲端。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q:&lt;span&gt;Why choose Onshape？&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A:Onshape&amp;nbsp;有7種方式（密碼保護訪問、雙因素認證、數據庫備份程序、專用服務器、通信安全、加密、第三方測試）來保證設計的保密，即使黑客將 Onshape&amp;nbsp;服務器上的數據成功地破壞掉，也無法使用它，因為數據經過加密和格式化，所以是十分的安全，可以放心地使用它。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;心得:目前市面上有許多CAD軟體，第一次聽到OnShape時以為跟一般CAD軟體一樣需要下載龐大檔案的軟體，但了解後發現並不是，OnShape僅需要有網路就能在線上繪圖，也能同時和人協同，這大大減少了設計產品的時間成本!&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623210/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-07-18T11:00:00+08:00</published><updated>2018-07-18T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-07-18:/site-40623210/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;心得:目前市面上有許多CAD軟體，第一次聽到OnShape時以為跟一般CAD軟體一樣需要下載龐大檔案的軟體，但了解後發現並不是，OnShape僅需要有網路就能在線上繪圖，也能同時和人協同，這大大減少了設計產品的時間成本!&lt;/strong&gt;&lt;/p&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-07-18T11:00:00+08:00</published><updated>2018-07-18T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-07-18:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 

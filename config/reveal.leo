@@ -24,19 +24,35 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.11" a="E"><vh>week1</vh>
+<v t="leo.20180827201621.12"><vh>week1</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20181109033213.1" a="E"><vh>week2</vh>
+<v t="leo.20181109033536.1"><vh>week2</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
+<v t="leo.20181109033304.1" a="E"><vh>week3</vh>
+<v t="leo.20181109033304.4"><vh>week3</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109033308.1" a="E"><vh>week4</vh>
+<v t="leo.20181109033308.5"><vh>week4</vh></v>
 </v>
+<v t="leo.20181109033309.1" a="E"><vh>week5</vh>
+<v t="leo.20181109035418.1"><vh>week5</vh></v>
+</v>
+<v t="leo.20181109035922.1" a="E"><vh>week5-2</vh>
+<v t="leo.20181109035922.2"><vh>week5-2</vh></v>
+</v>
+<v t="leo.20181109033311.1" a="E"><vh>week6</vh>
+<v t="leo.20181109033311.7"><vh>week6</vh></v>
+</v>
+<v t="leo.20181109033317.1" a="E"><vh>week7</vh>
+<v t="leo.20181109033317.8"><vh>week7</vh></v>
+</v>
+<v t="leo.20181109033319.1" a="E"><vh>week8</vh>
+<v t="leo.20181109033319.9"><vh>week8</vh></v>
+</v>
+<v t="leo.20181109033326.1" a="E"><vh>week9</vh>
+<v t="leo.20181109033326.10"><vh>week9</vh></v>
 </v>
 </v>
 </v>
@@ -145,92 +161,15 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12">## Week1
+* 在github上建立一個新倉儲 "學號.githb.io"。
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* 以2018fall為示範倉儲，將2018fall及40623210.github.io clone下來。
 
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
+* 將除了.git、REABME.me的檔案複製到自己資料夾，再提交至GitHub。
 
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+* 使用python wsgi.py 進入近端，將標題更改為"2018 Fall 40623210 分組網站"，再重新提交。
 
-
-
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -323,6 +262,166 @@ make.start()
     &lt;/script&gt;
 &lt;/section&gt;
 
+
+						
+</t>
+<t tx="leo.20181109033213.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109033304.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109033304.4">## Week3
+
+&lt;strong&gt;中秋佳節放假!!&lt;/strong&gt;
+* 又是一年落葉黃，一層秋雨一層涼。整日工作挺辛苦，天涼別忘加衣裳。保重身體多餐飯，珍惜友情常想想。信短情長言未盡，唯願朋友多安康。中秋快樂，閤家團圓！
+
+&lt;img alt="" height="254" src="/images/10084910380803756581.jpg" width="508"&gt;
+</t>
+<t tx="leo.20181109033308.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109033308.5">## Week4
+* 學習Onshape的用法
+
+* 介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）
+
+* 針對既有草圖的模型 - 接續建立特徵
+
+* 現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)
+
+</t>
+<t tx="leo.20181109033309.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109033311.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109033311.7">## Week6
+* 將 tmp/cmsimfly的flaskapp.py  更新至最新版本。
+
+* git clone  https://github.com/chiamingyen/cmsimfly
+
+* 把clone下來的資料夾中的flaskapp.py 複製進 tmp/cmsimfly 取代原資料夾中的檔案。
+
+</t>
+<t tx="leo.20181109033317.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109033317.8">## Week7
+* 本週遇到GitHub無法登入，因網路裝置與資料庫故障導致此事件。
+
+* 以虛擬或實體安裝的 Ubuntu, 可以透過 Fossil SCM 與 Stunnel 的結合, 建構能夠自行維護的 Fossil SCM 伺服主機。
+
+* 多方備份可降低檔案遺失的風險。
+
+</t>
+<t tx="leo.20181109033319.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109033319.9">## Week8
+* 回顧1~7週的內容，並整理好網站、網誌、投影片的內容。
+
+* 下週要取自評成績並分組，在課餘時間要先找好組員及想好要做哪個期末題目協同。
+</t>
+<t tx="leo.20181109033326.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109033326.10">## Week9
+* 自評期中成績。
+
+* 期末專案分組。
+
+* 講解如何利用 Github Classroom 進行期末分組專題倉儲的設定。
+
+</t>
+<t tx="leo.20181109033536.1">## Week2
+* 進入Github到https://classroom.github.com/a/fGqXU9kO 領取作業
+
+* 將倉儲的branches改為gh-pages
+
+* 申請Onshape帳號後開始練習
+
+* 如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌
+
+* 學習sharex截圖與錄影
+
+</t>
+<t tx="leo.20181109035418.1">## Week5
+* 從OnShape Lesson Plan中學習以下要點:
+
+* 1.簡介"設計意圖" (design intent)
+* 2.設定尺寸 (dimensions) 與約束(constraints)
+* 3.自動推理 (automatic inferencing)
+* 4.繪製精確的零件 (accurate part)
+* 5.草圖繪製練習
+
+
+						
+</t>
+<t tx="leo.20181109035922.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109035922.2">* 6.運用與建立平面 (planes)
+* 7.建立圓角 (fillets) 與倒角 (chamfers)
+* 8.使用多個 (multiple) 草圖區域 (sketch regions)
+* 9.基本零件
+* 10.繪製時鐘模型 - 用於設計意圖教學
+* 11.各種簡單的幾何形狀 (geometric shapes) 
 
 						
 </t>
