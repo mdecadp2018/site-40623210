@@ -54,6 +54,30 @@
 <v t="leo.20181109033326.1" a="E"><vh>week9</vh>
 <v t="leo.20181109033326.10"><vh>week9</vh></v>
 </v>
+<v t="leo.20190111132205.1" a="E"><vh>week10</vh>
+<v t="leo.20190111132205.2"><vh>week10</vh></v>
+</v>
+<v t="leo.20190111132212.1" a="E"><vh>week11</vh>
+<v t="leo.20190111132212.2"><vh>week11</vh></v>
+</v>
+<v t="leo.20190111132215.1" a="E"><vh>week12</vh>
+<v t="leo.20190111132215.2"><vh>week12</vh></v>
+</v>
+<v t="leo.20190111132218.1" a="E"><vh>week13</vh>
+<v t="leo.20190111132218.2"><vh>week13</vh></v>
+</v>
+<v t="leo.20190111132221.1" a="E"><vh>week14</vh>
+<v t="leo.20190111132221.2"><vh>week14</vh></v>
+</v>
+<v t="leo.20190111132224.1" a="E"><vh>week15~17</vh>
+<v t="leo.20190111132224.2"><vh>week15~17</vh></v>
+</v>
+<v t="leo.20190111132232.1"><vh>week18</vh>
+<v t="leo.20190111132232.2"><vh>week18</vh></v>
+</v>
+<v t="leo.20190111163401.1" a="E"><vh>finsh</vh>
+<v t="leo.20190111163401.2"><vh>finsh</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -425,5 +449,112 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 
 						
 </t>
+<t tx="leo.20190111132205.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111132205.2">## Week10
+* 把舊版p37更新為 p37-18.11
+* 將 stop.bat 內容更新
+* 更改分組的  README.md</t>
+<t tx="leo.20190111132212.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111132212.2">## Week11
+* 介紹區域輔助設計網站、 IPv6 協定
+*  安裝 Ubuntu 18.04 Server
+* 製作 OnShape 教學手冊</t>
+<t tx="leo.20190111132215.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111132215.2">## Week12
+*介紹 V-rep 功能
+(將繪圖軟體的零組件輸入V-rep進行動態模擬)
+
+1. 將組和完成圖檔, 以 STL 格式轉出。
+
+2. 將 STL 組件輸入 V-rep 後, 將組件根據零件運動軸進行設定。
+
+3. 以 Lua 嵌入或 Python remote API 方式驅動各致動器進行模擬。</t>
+<t tx="leo.20190111132218.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111132218.2">## Week13
+* 確認各組分組網站格式相同。
+
+2.介紹各個題目的範例及相關資訊，讓各組有更清楚的製作方向。</t>
+<t tx="leo.20190111132221.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111132221.2">## Week14
+* 利用 Pandoc 在 Leo 中編輯期末報告
+，將 Markdown 資料轉換為 html 與 pdf 格式，並放在分組網站上。</t>
+<t tx="leo.20190111132224.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111132224.2">## Week15~17
+* 各組的分組報告用pdf檔放上分組網站。
+
+* 繪圖遇到問題及pdf轉檔問題與組員討論並解決。</t>
+<t tx="leo.20190111132232.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111132232.2">## Week18
+* 製作學習影片並打上自評成績。
+
+
+</t>
+<t tx="leo.20190111163401.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111163401.2">## 總結
+* 這學期不但讓我知道新的繪圖軟體OnShape，並了解它的好處跟實用性，各人電腦不用再下載超大位元組的繪圖軟件，存檔也不必儲存在電腦中，這意味著隨時隨地只要有電腦、網路都能進行工作。在執行分組專題選擇題目時，我們才發現實際跟想像是會有落差的，在我們遇到困難時組員們會一起想辦法，就算大家都毫無頭緒但大家都完成了自己分內的工作，也非常感謝每個幫助過、建議過我們組的每個同學及老師。</t>
 </tnodes>
 </leo_file>

@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>2018 Fall Week9</title><link href="./2018-Fall-Project-Blog-week9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-05:./2018-Fall-Project-Blog-week9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2019-01-07T11:00:00+08:00</updated><entry><title>2018 Fall Week18</title><link href="./2018-Fall-Project-Blog-week18.html" rel="alternate"></link><published>2019-01-07T11:00:00+08:00</published><updated>2019-01-07T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2019-01-07:./2018-Fall-Project-Blog-week18.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;製作學習影片並打上自評成績。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;*學期心得:
+ 這學期不但讓我知道新的繪圖軟體OnShape，並了解它的好處跟實用性，各人電腦不用再下載超大位元組的繪圖軟件，存檔也不必儲存在電腦中，這意味著隨時隨地只要有電腦、網路都能進行工作。在執行分組專題選擇題目時，我們才發現實際跟想像是會有落差的，在我們遇到困難時組員們會一起想辦法，就算大家都毫無頭緒但大家都完成了自己分內的工作，也非常感謝每個幫助過、建議過我們組的每個同學及老師。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week17</title><link href="./2018-Fall-Project-Blog-week17.html" rel="alternate"></link><published>2018-12-31T11:00:00+08:00</published><updated>2018-12-31T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-31:./2018-Fall-Project-Blog-week17.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;整理分組報告內容，準備下周上台報告。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week16</title><link href="./2018-Fall-Project-Blog-week16.html" rel="alternate"></link><published>2018-12-24T11:00:00+08:00</published><updated>2018-12-24T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-24:./2018-Fall-Project-Blog-week16.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;繪圖遇到問題及pdf轉檔問題與組員討論並解決。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week15</title><link href="./2018-Fall-Project-Blog-week15.html" rel="alternate"></link><published>2018-12-17T11:00:00+08:00</published><updated>2018-12-17T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-17:./2018-Fall-Project-Blog-week15.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;各組的分組報告用pdf檔放上分組網站。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week14</title><link href="./2018-Fall-Project-Blog-week14.html" rel="alternate"></link><published>2018-12-10T11:00:00+08:00</published><updated>2018-12-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-10:./2018-Fall-Project-Blog-week14.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;利用 Pandoc 在 Leo 中編輯期末報告
+，將 Markdown 資料轉換為 html 與 pdf 格式，並放在分組網站上。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week13</title><link href="./2018-Fall-Project-Blog-week13.html" rel="alternate"></link><published>2018-12-03T11:00:00+08:00</published><updated>2018-12-03T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-12-03:./2018-Fall-Project-Blog-week13.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;確認各組分組網站格式相同。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;介紹各個題目的範例及相關資訊，讓各組有更清楚的製作方向。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week12</title><link href="./2018-Fall-Project-Blog-week12.html" rel="alternate"></link><published>2018-11-26T11:00:00+08:00</published><updated>2018-11-26T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-26:./2018-Fall-Project-Blog-week12.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;*介紹 V-rep 功能
+(將繪圖軟體的零組件輸入V-rep進行動態模擬)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;將組和完成圖檔, 以 STL 格式轉出。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;將 STL 組件輸入 V-rep 後, 將組件根據零件運動軸進行設定。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;以 Lua 嵌入或 Python remote API 方式驅動各致動器進行模擬。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week11</title><link href="./2018-Fall-Project-Blog-week11.html" rel="alternate"></link><published>2018-11-19T11:00:00+08:00</published><updated>2018-11-19T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-19:./2018-Fall-Project-Blog-week11.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;介紹區域輔助設計網站、 IPv6 協定&lt;/li&gt;
+&lt;li&gt;安裝 Ubuntu 18.04 Server&lt;/li&gt;
+&lt;li&gt;製作 OnShape 教學手冊&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week10</title><link href="./2018-Fall-Project-Blog-week10.html" rel="alternate"></link><published>2018-11-12T11:00:00+08:00</published><updated>2018-11-12T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-12:./2018-Fall-Project-Blog-week10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;把舊版p37更新為 p37-18.11&lt;/li&gt;
+&lt;li&gt;將 stop.bat 內容更新&lt;/li&gt;
+&lt;li&gt;更改分組的  README.md&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week9</title><link href="./2018-Fall-Project-Blog-week9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-11-05:./2018-Fall-Project-Blog-week9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;建立各組分組倉儲並把組員加入。
 教學影片:
