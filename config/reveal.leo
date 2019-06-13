@@ -159,8 +159,9 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
 <t tx="leo.20180827201621.10">## 2019 Spring 協同產品設計實習
-##期末報告投影片
+## 期末報告投影片
 ### 虎科大機械設計工程系
+####四設計二乙 40623210 翁嘉宏
 
 &lt;small&gt;
 Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
@@ -301,7 +302,7 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 
 						
 </t>
-<t tx="leo.20190613175708.2">## 總結
+<t tx="leo.20190613175708.2">## 自評成績
 
 * 學員出席 (20%)20分
 
