@@ -28,6 +28,9 @@
 <v t=".20190613185011.1"><vh>v-rep</vh>
 <v t=".20190613185011.3"><vh>v-rep</vh></v>
 </v>
+<v t=".20190613185530.1"><vh>手足球</vh>
+<v t=".20190613185530.2"><vh>手足球</vh></v>
+</v>
 </v>
 <v t="leo.20190111163401.1"><vh>finsh</vh>
 <v t="leo.20190111163401.2"><vh>finsh</vh></v>
@@ -44,7 +47,17 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx=".20190613185011.1">## v-rep 
+<t tx=".20190613185011.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx=".20190613185011.3">## v-rep 
 * 從期中前的BubbleRob Tutorial就開始讓我們了解如何在v-rep中建立物件及基本設定。
 
 [BubbleRob01](https://youtu.be/eCdA9t3DFAQ)
@@ -56,7 +69,14 @@
 [BubbleRob04](https://youtu.be/zhB4iw6D5d0)
 
 [BubbleRob05](https://youtu.be/qoEwKJeLnTc)</t>
-<t tx=".20190613185011.3">## 手足球 
+<t tx=".20190613185530.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx=".20190613185530.2">## 手足球 
 * 在第9週時老師在youtube上放上了手足球運動模擬的參考檔案，我運用這份檔案拉出了全部桿件布滿整個視圖，一開始控制全部桿件的程式要寫在同一個程式包中，後來發現有問題不能正常作動，所以我把所有程式拆散在每一個桿件中。
 *手足球模擬02影片是程式拆散在每一個桿件中的成果，故時間較短，製作跟設定的時間太長所以沒有錄影。
 [手足球模擬01](https://youtu.be/ZsaNZ-unkDw)
@@ -251,12 +271,9 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 
 						
 </t>
-<t tx="leo.20190111132212.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
+<t tx="leo.20190111132212.1">&lt;section&gt;
 @others
-    &lt;/script&gt;
 &lt;/section&gt;
-
 
 						
 </t>
