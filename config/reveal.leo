@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,28 +10,29 @@
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180827201621.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180827201621.4" a="E"><vh>html</vh>
+<v t="leo.20180827201621.1"><vh>編輯 reveal</vh>
+<v t="leo.20180827201621.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180827201621.3"><vh>@clean index.html</vh>
+<v t="leo.20180827201621.4"><vh>html</vh>
 <v t="leo.20180827201621.5"><vh>head</vh></v>
-<v t="leo.20180827201621.6" a="E"><vh>body</vh>
-<v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.6"><vh>body</vh>
+<v t="leo.20180827201621.7"><vh>reveal div</vh>
+<v t="leo.20180827201621.8"><vh>slides div</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20190111132205.1" a="E"><vh>pull request</vh>
+<v t="leo.20190111132205.1"><vh>pull request</vh>
 <v t="leo.20190613164615.1"><vh>pull request</vh></v>
 </v>
-<v t="leo.20190111132212.1" a="E"><vh>v-rep</vh>
-<v t="leo.20190111132212.2"><vh>v-rep</vh></v>
-<v t="leo.20190613173100.1"><vh>v-rep</vh></v>
+<v t="leo.20190111132212.1"><vh>v-rep</vh>
+<v t=".20190613185011.1"><vh>v-rep</vh>
+<v t=".20190613185011.3"><vh>v-rep</vh></v>
 </v>
-<v t="leo.20190111163401.1" a="E"><vh>finsh</vh>
+</v>
+<v t="leo.20190111163401.1"><vh>finsh</vh>
 <v t="leo.20190111163401.2"><vh>finsh</vh></v>
 </v>
-<v t="leo.20190613175708.1" a="E"><vh>自評</vh>
+<v t="leo.20190613175708.1"><vh>自評</vh>
 <v t="leo.20190613175708.2"><vh>自評</vh></v>
 </v>
 </v>
@@ -46,6 +44,23 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx=".20190613185011.1">## v-rep 
+* 從期中前的BubbleRob Tutorial就開始讓我們了解如何在v-rep中建立物件及基本設定。
+
+[BubbleRob01](https://youtu.be/eCdA9t3DFAQ)
+
+[BubbleRob02](https://youtu.be/47XKxMdeCDM)
+
+[BubbleRob03](https://youtu.be/dA6_qgl2qX4)
+
+[BubbleRob04](https://youtu.be/zhB4iw6D5d0)
+
+[BubbleRob05](https://youtu.be/qoEwKJeLnTc)</t>
+<t tx=".20190613185011.3">## 手足球 
+* 在第9週時老師在youtube上放上了手足球運動模擬的參考檔案，我運用這份檔案拉出了全部桿件布滿整個視圖，一開始控制全部桿件的程式要寫在同一個程式包中，後來發現有問題不能正常作動，所以我把所有程式拆散在每一個桿件中。
+*手足球模擬02影片是程式拆散在每一個桿件中的成果，故時間較短，製作跟設定的時間太長所以沒有錄影。
+[手足球模擬01](https://youtu.be/ZsaNZ-unkDw)
+[手足球模擬02](https://youtu.be/I55FUuffxP4)</t>
 <t tx="leo.20180827201556.1"></t>
 <t tx="leo.20180827201556.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -245,14 +260,6 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 
 						
 </t>
-<t tx="leo.20190111132212.2">## v-rep 
-* 從期中前的BubbleRob Tutorial就開始讓我們了解如何在v-rep中建立物件及基本設定。
-
-[BubbleRob01](https://youtu.be/eCdA9t3DFAQ)
-[BubbleRob02](https://youtu.be/47XKxMdeCDM)
-[BubbleRob03](https://youtu.be/dA6_qgl2qX4)
-[BubbleRob04](https://youtu.be/zhB4iw6D5d0)
-[BubbleRob05](https://youtu.be/qoEwKJeLnTc)</t>
 <t tx="leo.20190111163401.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -263,16 +270,11 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 						
 </t>
 <t tx="leo.20190111163401.2">## 總結
-*這學期的課程重點在於協同跟模擬，讓我了解產品在開發時能利用協同分工，每個協同者能在不同時間、地點都能工作並合併成一份專案，然而透過模擬能在產品生產出來前，把所有可避免的問題找出來並解決，降低產品生產的成本。在執行分組專題時，在我們遇到困難時組員們會一起想辦法並上網找資料解決，就算大家都毫無頭緒但大家都完成了自己分內的工作，也非常感謝每個幫助過、建議過我們組的每個同學及老師。
-</t>
+*這學期的課程重點在於協同跟模擬，讓我了解產品在開發時能利用協同分工，每個協同者能在不同時間、地點都能工作並合併成一份專案，然而透過模擬能在產品生產出來前，把所有可避免的問題找出來並解決，降低產品生產的成本。在執行分組專題時，在我們遇到困難時組員們會一起想辦法並上網找資料解決，就算大家都毫無頭緒但大家都完成了自己分內的工作，也非常感謝每個幫助過、建議過我們組的每個同學及老師。</t>
 <t tx="leo.20190613164615.1">## pull request
 *在期中過後，為了整合五個組的專案內容，創建了一個全班網站，每個學員都能將自己所作內容合併至全班倉儲，將內容push後再經由pull request合併至全班倉儲經由組長審核後內容即可放上全班網站。
-[pull request步驟]()</t>
-<t tx="leo.20190613173100.1">## 手足球 
-* 在第9週時老師在youtube上放上了手足球運動模擬的參考檔案，我運用這份檔案拉出了全部桿件布滿整個視圖，一開始控制全部桿件的程式要寫在同一個程式包中，後來發現有問題不能正常作動，所以我把所有程式拆散在每一個桿件中。
-*手足球模擬02影片是程式拆散在每一個桿件中的成果，故時間較短，製作跟設定的時間太長所以沒有錄影。
-[手足球模擬01](https://youtu.be/ZsaNZ-unkDw)
-[手足球模擬02](https://youtu.be/I55FUuffxP4)</t>
+
+[pull request步驟](https://mdecadp2018.github.io/site-40623210/content/pull%20request.html)</t>
 <t tx="leo.20190613175708.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -287,8 +289,6 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 *Github 倉儲管理  (20%)20分
 *V-rep 模擬 (20%)10分
 *程式開發 (20%)10分
-*總分:60分
-
-</t>
+*總分:60分</t>
 </tnodes>
 </leo_file>
