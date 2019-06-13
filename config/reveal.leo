@@ -24,59 +24,18 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>week1</vh>
-<v t="leo.20180827201621.12"><vh>week1</vh></v>
+<v t="leo.20190111132205.1" a="E"><vh>pull request</vh>
+<v t="leo.20190613164615.1"><vh>pull request</vh></v>
 </v>
-<v t="leo.20181109033213.1" a="E"><vh>week2</vh>
-<v t="leo.20181109033536.1"><vh>week2</vh></v>
-</v>
-<v t="leo.20181109033304.1" a="E"><vh>week3</vh>
-<v t="leo.20181109033304.4"><vh>week3</vh></v>
-</v>
-<v t="leo.20181109033308.1" a="E"><vh>week4</vh>
-<v t="leo.20181109033308.5"><vh>week4</vh></v>
-</v>
-<v t="leo.20181109033309.1" a="E"><vh>week5</vh>
-<v t="leo.20181109035418.1"><vh>week5</vh></v>
-</v>
-<v t="leo.20181109035922.1" a="E"><vh>week5-2</vh>
-<v t="leo.20181109035922.2"><vh>week5-2</vh></v>
-</v>
-<v t="leo.20181109033311.1" a="E"><vh>week6</vh>
-<v t="leo.20181109033311.7"><vh>week6</vh></v>
-</v>
-<v t="leo.20181109033317.1" a="E"><vh>week7</vh>
-<v t="leo.20181109033317.8"><vh>week7</vh></v>
-</v>
-<v t="leo.20181109033319.1" a="E"><vh>week8</vh>
-<v t="leo.20181109033319.9"><vh>week8</vh></v>
-</v>
-<v t="leo.20181109033326.1" a="E"><vh>week9</vh>
-<v t="leo.20181109033326.10"><vh>week9</vh></v>
-</v>
-<v t="leo.20190111132205.1" a="E"><vh>week10</vh>
-<v t="leo.20190111132205.2"><vh>week10</vh></v>
-</v>
-<v t="leo.20190111132212.1" a="E"><vh>week11</vh>
-<v t="leo.20190111132212.2"><vh>week11</vh></v>
-</v>
-<v t="leo.20190111132215.1" a="E"><vh>week12</vh>
-<v t="leo.20190111132215.2"><vh>week12</vh></v>
-</v>
-<v t="leo.20190111132218.1" a="E"><vh>week13</vh>
-<v t="leo.20190111132218.2"><vh>week13</vh></v>
-</v>
-<v t="leo.20190111132221.1" a="E"><vh>week14</vh>
-<v t="leo.20190111132221.2"><vh>week14</vh></v>
-</v>
-<v t="leo.20190111132224.1" a="E"><vh>week15~17</vh>
-<v t="leo.20190111132224.2"><vh>week15~17</vh></v>
-</v>
-<v t="leo.20190111132232.1"><vh>week18</vh>
-<v t="leo.20190111132232.2"><vh>week18</vh></v>
+<v t="leo.20190111132212.1" a="E"><vh>v-rep</vh>
+<v t="leo.20190111132212.2"><vh>v-rep</vh></v>
+<v t="leo.20190613173100.1"><vh>v-rep</vh></v>
 </v>
 <v t="leo.20190111163401.1" a="E"><vh>finsh</vh>
 <v t="leo.20190111163401.2"><vh>finsh</vh></v>
+</v>
+<v t="leo.20190613175708.1" a="E"><vh>自評</vh>
+<v t="leo.20190613175708.2"><vh>自評</vh></v>
 </v>
 </v>
 </v>
@@ -164,35 +123,14 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 個人簡報
-
+<t tx="leo.20180827201621.10">## 2019 Spring 協同產品設計實習
+##期末報告投影片
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
 Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 &lt;/small&gt;
 
-[2018 Fall 個人網誌](https://mdecadp2018.github.io/site-40623210/blog)
-
-
-</t>
-<t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.12">## Week1
-* 在github上建立一個新倉儲 "學號.githb.io"。
-
-* 以2018fall為示範倉儲，將2018fall及40623210.github.io clone下來。
-
-* 將除了.git、REABME.me的檔案複製到自己資料夾，再提交至GitHub。
-
-* 使用python wsgi.py 進入近端，將標題更改為"2018 Fall 40623210 分組網站"，再重新提交。
 
 </t>
 <t tx="leo.20180827201621.2"></t>
@@ -289,166 +227,6 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 
 						
 </t>
-<t tx="leo.20181109033213.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109033304.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109033304.4">## Week3
-
-&lt;strong&gt;中秋佳節放假!!&lt;/strong&gt;
-* 又是一年落葉黃，一層秋雨一層涼。整日工作挺辛苦，天涼別忘加衣裳。保重身體多餐飯，珍惜友情常想想。信短情長言未盡，唯願朋友多安康。中秋快樂，閤家團圓！
-
-&lt;img alt="" height="254" src="/images/10084910380803756581.jpg" width="508"&gt;
-</t>
-<t tx="leo.20181109033308.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109033308.5">## Week4
-* 學習Onshape的用法
-
-* 介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）
-
-* 針對既有草圖的模型 - 接續建立特徵
-
-* 現存公用模型 (public models) - 如何搜尋並復製到工作區 (workspace)
-
-</t>
-<t tx="leo.20181109033309.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109033311.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109033311.7">## Week6
-* 將 tmp/cmsimfly的flaskapp.py  更新至最新版本。
-
-* git clone  https://github.com/chiamingyen/cmsimfly
-
-* 把clone下來的資料夾中的flaskapp.py 複製進 tmp/cmsimfly 取代原資料夾中的檔案。
-
-</t>
-<t tx="leo.20181109033317.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109033317.8">## Week7
-* 本週遇到GitHub無法登入，因網路裝置與資料庫故障導致此事件。
-
-* 以虛擬或實體安裝的 Ubuntu, 可以透過 Fossil SCM 與 Stunnel 的結合, 建構能夠自行維護的 Fossil SCM 伺服主機。
-
-* 多方備份可降低檔案遺失的風險。
-
-</t>
-<t tx="leo.20181109033319.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109033319.9">## Week8
-* 回顧1~7週的內容，並整理好網站、網誌、投影片的內容。
-
-* 下週要取自評成績並分組，在課餘時間要先找好組員及想好要做哪個期末題目協同。
-</t>
-<t tx="leo.20181109033326.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109033326.10">## Week9
-* 自評期中成績。
-
-* 期末專案分組。
-
-* 講解如何利用 Github Classroom 進行期末分組專題倉儲的設定。
-
-</t>
-<t tx="leo.20181109033536.1">## Week2
-* 進入Github到https://classroom.github.com/a/fGqXU9kO 領取作業
-
-* 將倉儲的branches改為gh-pages
-
-* 申請Onshape帳號後開始練習
-
-* 如何管理 CMSimfly 靜態網頁, 如何編輯 reveal 簡報內容, 如何建立 pelican 網誌
-
-* 學習sharex截圖與錄影
-
-</t>
-<t tx="leo.20181109035418.1">## Week5
-* 從OnShape Lesson Plan中學習以下要點:
-
-* 1.簡介"設計意圖" (design intent)
-* 2.設定尺寸 (dimensions) 與約束(constraints)
-* 3.自動推理 (automatic inferencing)
-* 4.繪製精確的零件 (accurate part)
-* 5.草圖繪製練習
-
-
-						
-</t>
-<t tx="leo.20181109035922.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109035922.2">* 6.運用與建立平面 (planes)
-* 7.建立圓角 (fillets) 與倒角 (chamfers)
-* 8.使用多個 (multiple) 草圖區域 (sketch regions)
-* 9.基本零件
-* 10.繪製時鐘模型 - 用於設計意圖教學
-* 11.各種簡單的幾何形狀 (geometric shapes) 
-
-						
-</t>
 <t tx="leo.20190111132205.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -458,10 +236,6 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 
 						
 </t>
-<t tx="leo.20190111132205.2">## Week10
-* 把舊版p37更新為 p37-18.11
-* 將 stop.bat 內容更新
-* 更改分組的  README.md</t>
 <t tx="leo.20190111132212.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -471,80 +245,14 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 
 						
 </t>
-<t tx="leo.20190111132212.2">## Week11
-* 介紹區域輔助設計網站、 IPv6 協定
-*  安裝 Ubuntu 18.04 Server
-* 製作 OnShape 教學手冊</t>
-<t tx="leo.20190111132215.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+<t tx="leo.20190111132212.2">## v-rep 
+* 從期中前的BubbleRob Tutorial就開始讓我們了解如何在v-rep中建立物件及基本設定。
 
-
-						
-</t>
-<t tx="leo.20190111132215.2">## Week12
-*介紹 V-rep 功能
-(將繪圖軟體的零組件輸入V-rep進行動態模擬)
-
-1. 將組和完成圖檔, 以 STL 格式轉出。
-
-2. 將 STL 組件輸入 V-rep 後, 將組件根據零件運動軸進行設定。
-
-3. 以 Lua 嵌入或 Python remote API 方式驅動各致動器進行模擬。</t>
-<t tx="leo.20190111132218.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190111132218.2">## Week13
-* 確認各組分組網站格式相同。
-
-2.介紹各個題目的範例及相關資訊，讓各組有更清楚的製作方向。</t>
-<t tx="leo.20190111132221.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190111132221.2">## Week14
-* 利用 Pandoc 在 Leo 中編輯期末報告
-，將 Markdown 資料轉換為 html 與 pdf 格式，並放在分組網站上。</t>
-<t tx="leo.20190111132224.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190111132224.2">## Week15~17
-* 各組的分組報告用pdf檔放上分組網站。
-
-* 繪圖遇到問題及pdf轉檔問題與組員討論並解決。</t>
-<t tx="leo.20190111132232.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190111132232.2">## Week18
-* 製作學習影片並打上自評成績。
-
-
-</t>
+[BubbleRob01](https://youtu.be/eCdA9t3DFAQ)
+[BubbleRob02](https://youtu.be/47XKxMdeCDM)
+[BubbleRob03](https://youtu.be/dA6_qgl2qX4)
+[BubbleRob04](https://youtu.be/zhB4iw6D5d0)
+[BubbleRob05](https://youtu.be/qoEwKJeLnTc)</t>
 <t tx="leo.20190111163401.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -555,6 +263,32 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 						
 </t>
 <t tx="leo.20190111163401.2">## 總結
-* 這學期不但讓我知道新的繪圖軟體OnShape，並了解它的好處跟實用性，各人電腦不用再下載超大位元組的繪圖軟件，存檔也不必儲存在電腦中，這意味著隨時隨地只要有電腦、網路都能進行工作。在執行分組專題選擇題目時，我們才發現實際跟想像是會有落差的，在我們遇到困難時組員們會一起想辦法，就算大家都毫無頭緒但大家都完成了自己分內的工作，也非常感謝每個幫助過、建議過我們組的每個同學及老師。</t>
+*這學期的課程重點在於協同跟模擬，讓我了解產品在開發時能利用協同分工，每個協同者能在不同時間、地點都能工作並合併成一份專案，然而透過模擬能在產品生產出來前，把所有可避免的問題找出來並解決，降低產品生產的成本。在執行分組專題時，在我們遇到困難時組員們會一起想辦法並上網找資料解決，就算大家都毫無頭緒但大家都完成了自己分內的工作，也非常感謝每個幫助過、建議過我們組的每個同學及老師。
+</t>
+<t tx="leo.20190613164615.1">## pull request
+*在期中過後，為了整合五個組的專案內容，創建了一個全班網站，每個學員都能將自己所作內容合併至全班倉儲，將內容push後再經由pull request合併至全班倉儲經由組長審核後內容即可放上全班網站。
+[pull request步驟]()</t>
+<t tx="leo.20190613173100.1">## 手足球 
+* 在第9週時老師在youtube上放上了手足球運動模擬的參考檔案，我運用這份檔案拉出了全部桿件布滿整個視圖，一開始控制全部桿件的程式要寫在同一個程式包中，後來發現有問題不能正常作動，所以我把所有程式拆散在每一個桿件中。
+*手足球模擬02影片是程式拆散在每一個桿件中的成果，故時間較短，製作跟設定的時間太長所以沒有錄影。
+[手足球模擬01](https://youtu.be/ZsaNZ-unkDw)
+[手足球模擬02](https://youtu.be/I55FUuffxP4)</t>
+<t tx="leo.20190613175708.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190613175708.2">## 總結
+*學員出席 (20%)20分
+*Github 倉儲管理  (20%)20分
+*V-rep 模擬 (20%)10分
+*程式開發 (20%)10分
+*總分:60分
+
+</t>
 </tnodes>
 </leo_file>
