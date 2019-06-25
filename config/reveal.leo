@@ -68,7 +68,9 @@
 
 [BubbleRob04](https://youtu.be/zhB4iw6D5d0)
 
-[BubbleRob05](https://youtu.be/qoEwKJeLnTc)</t>
+[BubbleRob05](https://youtu.be/qoEwKJeLnTc)
+
+</t>
 <t tx=".20190613185530.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -80,7 +82,9 @@
 * 在第9週時老師在youtube上放上了手足球運動模擬的參考檔案，我運用這份檔案拉出了全部桿件布滿整個視圖，一開始控制全部桿件的程式要寫在同一個程式包中，後來發現有問題不能正常作動，所以我把所有程式拆散在每一個桿件中。
 *手足球模擬02影片是程式拆散在每一個桿件中的成果，故時間較短，製作跟設定的時間太長所以沒有錄影。
 [手足球模擬01](https://youtu.be/ZsaNZ-unkDw)
-[手足球模擬02](https://youtu.be/I55FUuffxP4)</t>
+[手足球模擬02](https://youtu.be/I55FUuffxP4)
+
+</t>
 <t tx="leo.20180827201556.1"></t>
 <t tx="leo.20180827201556.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -288,11 +292,15 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 						
 </t>
 <t tx="leo.20190111163401.2">## 總結
-* 這學期的課程重點在於協同跟模擬，讓我了解產品在開發時能利用協同分工，每個協同者能在不同時間、地點都能工作並合併成一份專案，然而透過模擬能在產品生產出來前，把所有可避免的問題找出來並解決，降低產品生產的成本。在執行分組專題時，在我們遇到困難時組員們會一起想辦法並上網找資料解決，就算大家都毫無頭緒但大家都完成了自己分內的工作，也非常感謝每個幫助過、建議過我們組的每個同學及老師。</t>
+* 這學期的課程重點在於協同跟模擬，讓我了解產品在開發時能利用協同分工，每個協同者能在不同時間、地點都能工作並合併成一份專案，然而透過模擬能在產品生產出來前，把所有可避免的問題找出來並解決，降低產品生產的成本。在執行分組專題時，在我們遇到困難時組員們會一起想辦法並上網找資料解決，就算大家都毫無頭緒但大家都完成了自己分內的工作，也非常感謝每個幫助過、建議過我們組的每個同學及老師。
+
+</t>
 <t tx="leo.20190613164615.1">## pull request
 * 在期中過後，為了整合五個組的專案內容，創建了一個全班網站，每個學員都能將自己所作內容合併至全班倉儲，將內容push後再經由pull request合併至全班倉儲經由組長審核後內容即可放上全班網站。
 
-[pull request步驟](https://mdecadp2018.github.io/site-40623210/content/pull%20request.html)</t>
+[pull request步驟](https://mdecadp2018.github.io/site-40623210/content/pull%20request.html)
+
+</t>
 <t tx="leo.20190613175708.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -306,12 +314,16 @@ Created by [翁嘉宏](https://mdecadp2018.github.io/site-40623210)
 
 * 學員出席 (20%)20分
 
-* Github 倉儲管理  (20%)20分
+* Github 倉儲管理  (20%)10分
+
+* Onshape 協同操作 (20%)10分
 
 * V-rep 模擬 (20%)10分
 
 * 程式開發 (20%)10分
 
-* 總分: 60分</t>
+* 總分: 60分
+
+</t>
 </tnodes>
 </leo_file>
